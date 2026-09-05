@@ -1,0 +1,13 @@
+{
+  "name": "agents-marketplace",
+  "owner": {
+    "name": "psxzz"
+  },
+  "plugins": [
+    {
+      "name": "writing",
+      "source": "./plugins/writing",
+      "description": "A plugin to adjust model writing (style, tone, etc.)"
+    }
+  ]
+}

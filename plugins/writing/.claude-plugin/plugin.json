@@ -1,0 +1,8 @@
+{
+  "name": "writing",
+  "description": "A plugin to adjust model writing (style, tone, etc.)",
+  "version": "1.0.0",
+  "author": {
+    "name": "psxzz"
+  }
+}
