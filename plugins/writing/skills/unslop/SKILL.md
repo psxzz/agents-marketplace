@@ -1,6 +1,6 @@
 ---
 name: unslop
-description: Cut AI tells from any writing. Not applicable to source code. Must always apply before translating to target language.
+description: Cut AI tells from any writing. Must always apply.
 ---
 
 # Unslop
