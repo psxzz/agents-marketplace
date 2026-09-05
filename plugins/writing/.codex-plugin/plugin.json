@@ -1,0 +1,18 @@
+{
+  "name": "writing",
+  "description": "A plugin to adjust model writing (style, tone, etc.)",
+  "version": "1.0.0",
+  "author": {
+    "name": "psxzz"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Writing",
+    "shortDescription": "Edit text to remove AI writing patterns.",
+    "longDescription": "Includes the unslop skill for editing prose, preserving meaning and tone, and removing common AI writing patterns. Does not apply to source code.",
+    "developerName": "psxzz",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": ["Use unslop to edit this text while preserving its meaning and tone."]
+  }
+}
