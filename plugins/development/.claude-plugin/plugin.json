@@ -1,0 +1,8 @@
+{
+  "name": "development",
+  "description": "A plugin useful for agentic assisted development",
+  "version": "1.0.0",
+  "author": {
+    "name": "psxzz"
+  }
+}

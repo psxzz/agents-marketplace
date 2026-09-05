@@ -8,6 +8,11 @@
       "name": "writing",
       "source": "./plugins/writing",
       "description": "A plugin to adjust model writing (style, tone, etc.)"
+    },
+    {
+      "name": "development",
+      "source": "./plugins/development",
+      "description": "A plugin useful for agentic assisted development"
     }
   ]
 }
